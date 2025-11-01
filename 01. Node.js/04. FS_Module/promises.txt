@@ -1,0 +1,2 @@
+This is data written in file using promises
+ Appending data in the file
